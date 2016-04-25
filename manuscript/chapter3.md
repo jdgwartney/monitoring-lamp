@@ -1,13 +1,26 @@
 # Configuring and Deploying
 
+## Monitoring Setup
 
-# EC2
+### Meter
 
-# RDS
+### Meter Plugins
 
-# Route 53
+### Linux
 
-# SNS
+Deploy meter on targeted system...
 
-# S3
+
+### Apache
+
+- Apache Meter Plugin
+
+### MySQL
+
+- MySQL Meter Plugin
+
+### PHP
+
+- CPU Process Plugin
+
 
