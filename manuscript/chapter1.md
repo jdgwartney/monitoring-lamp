@@ -1,8 +1,9 @@
-# The LAMP Stack
+# The LAMP and LEMP Stacks
 
-This chapter gives an overview of the LAMP (**L**inux **A**pache **M**ySQL **P**HP) stack.
+This chapter gives an overview of the LAMP (**L**inux **A**pache **M**ySQL **P**HP) and
+LEMP (**L**inux Nginx **M**ariaDB **P**HP) stacks
 
-## LAMP Components
+## LAMP Stack
 
 The following sections provides a summary of the components that make up a LAMP stack and the responsibility of
 each.
@@ -33,9 +34,14 @@ but now stands for _PHP: Hypertext Preprocessor_. PHP is used in conjuction with
 of a specific PHP module.
 
 
-## Archecture
+## Archiecture
 
 **TO BE COMPLETED**
+
+## LEMP Stack
+
+
+### Nginx
 
 
 ## Failure Modes
