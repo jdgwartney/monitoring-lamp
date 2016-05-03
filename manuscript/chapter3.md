@@ -15,6 +15,12 @@ Deploy meter on targeted system...
 
 - Apache Meter Plugin
 
+Configuration when you have virtual hosts.
+
+Server-status module 
+
+How to handle with virtual hosts
+
 ### MySQL
 
 - MySQL Meter Plugin

@@ -18,6 +18,32 @@ with the LAMP stack. There are many flavors or _distros_ of Linux due to being a
 
 Apache HTTP Server
 
+http://httpd.apache.org/docs/current/misc/perf-tuning.html
+
+Discussion about Virtual Hosts and how to handle
+
+### Site and Log File Tracking
+
+Discussion about tracking user via Piwik
+
+- AWStats
+- Piwik
+- Webalizer
+
+### Security Testing
+
+Nikito
+
+### Performance Testing
+
+- Apache Bench
+
+[https://blog.serverdensity.com/monitor-apache/](https://blog.serverdensity.com/monitor-apache/)
+
+apachetop for reading log files and hits return code
+
+
+
 ### MySQL
 
 _MySQL_ is the most prevalent open source database in use today, deployed by thousands of companies to provide
